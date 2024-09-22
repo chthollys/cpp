@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "C:\\Users\\ASUS\\Program\\SDA\\C++\\tugaskelompok1\\build",
+    "command": "\"c++\" \"-Iapp.exe.p\" \"-I.\" \"-I..\" \"-fdiagnostics-color=always\" \"-D_FILE_OFFSET_BITS=64\" \"-Wall\" \"-Winvalid-pch\" \"-O0\" \"-g\" -MD -MQ app.exe.p/tug.cpp.obj -MF \"app.exe.p\\tug.cpp.obj.d\" -o app.exe.p/tug.cpp.obj \"-c\" ../tug.cpp",
+    "file": "../tug.cpp",
+    "output": "app.exe.p/tug.cpp.obj"
+  }
+]
